@@ -6,10 +6,9 @@ An eager to learn student with a future vision in the front-end development care
 
 I decided to become a front-end developer because I enjoy it to create websites, and find the different technologies and concepts behind it interesting. In the long run, I want to be able to use all my skills to create decent websites, help others create a website they can't make themselves, and contribute to their needs.
 
-* 🌍  I'm based in The Netherlands (Zeeland)
-<!-- * 🖥️  See my portfolio at [yarimorcus.me](http://yarimorcus.me) -->
+* 🌍  I'm based in The Netherlands (Zeeland)<!-- * 🖥️  See my portfolio at [yarimorcus.me](http://yarimorcus.me) -->
 * ✉️  You can contact me at [yarimorcus@gmail.com](mailto:yarimorcus@gmail.com)
-* 🧠  I'm learning The foundation of HTML, CSS and JavaScript (and a little bit of GitHub, Git, NPM and Gulp)
+* 🧠  I'm learning the foundation of HTML, CSS and JavaScript (and a little bit of GitHub, Git, NPM and Gulp)
 * ⚡  I'm still single (oops, wrong site 😊)
 
 ### Skills
